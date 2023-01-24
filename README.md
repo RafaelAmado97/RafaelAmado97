@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @RafaelAmado97
-- 🌱 I’m currently learning flutter and dart
+- 🌱 I’m currently learning Node.JS
+- 🌱 I've studied a little bit of Dart and Flutter as well.
 - 📫 How to reach me send me an e-mail dias.rafael0597@gmail.com
 
 <!---
