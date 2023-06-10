@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @RafaelAmado97
+- 🧑🏻‍💻 I’m a Javascript developer
+- 🧑🏻‍💻 Node.JS | Express.JS | Vue.JS
+- 📫 How to reach me send me an e-mail dias.rafael0597@gmail.com
